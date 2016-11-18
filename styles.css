@@ -1,0 +1,21 @@
+
+
+h1.standout {
+  color: red;
+  letter-spacing: .2em;
+  text-align: center;
+  padding-top: 2em;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 3em;
+}
+
+h4.center {
+  text-align: center;
+}
+
+p.middle {
+  text-align: center;
+}
+
+
+
